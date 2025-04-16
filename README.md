@@ -14,7 +14,7 @@ included here can run standalone using the
 demonstration of Gemini's 2D and 3D spatial understanding and reasoning
 capabilities. It was built with React.
 
-This example should give you an idea of how to get started with spatial analysis
+This example should give you an idea of how to get started with spatial analysis 
 using Gemini. Check out [Prompt.tsx](/spatial/src/Prompt.tsx) to see how
 bounding box parsing is implemented. To dive deeper into Gemini's spatial
 reasoning capabilities, check out this
